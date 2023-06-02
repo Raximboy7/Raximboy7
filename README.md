@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raximboy</h1>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=123215739791725103" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+<img alt="Coding" width="732" height="558" data-id="2710024" data-animated-url="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" skip_resize="true" srcset="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 320w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 400w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 450w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 640w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 700w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 800w, https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif 768w" sizes="(max-width: 919px) 100vw, max(768px, 98vh)" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 <h3 align="center">A passionate Fullsteck developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raximboy7&label=Profile%20views&color=0e75b6&style=flat" alt="raximboy7" /> </p>
