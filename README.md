@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raximboy</h1>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=123215739791725103" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
 <h3 align="center">A passionate Fullsteck developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raximboy7&label=Profile%20views&color=0e75b6&style=flat" alt="raximboy7" /> </p>
