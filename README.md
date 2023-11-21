@@ -1,5 +1,7 @@
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
+ - Hi 👋, I'm Raximboy  A passionate Fullsteck developer from Uzbekistan
+   
+ - 🔭 I’m currently working on My_project
 
 - 🌱 I’m currently learning **Backend and Database**
 
