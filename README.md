@@ -98,16 +98,37 @@ fun_fact:    "I turn coffee into clean code ☕"
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
-<h2 align="center">📈 &nbsp;GitHub Stats</h2>
+<!-- ===================== HIGHLIGHTS ===================== -->
+<h2 align="center">🌟 &nbsp;Highlights</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/salesp07?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/salesp07?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=salesp07&style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=Profile+Views" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      🚀<br/><b>Building</b><br/>
+      <sub>A real-time Chat App</sub>
+    </td>
+    <td align="center" width="33%">
+      🎯<br/><b>Focus</b><br/>
+      <sub>Backend &amp; Mobile (Flutter)</sub>
+    </td>
+    <td align="center" width="33%">
+      📚<br/><b>Learning</b><br/>
+      <sub>Redis • Tailwind • RN Expo</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== QUOTE ===================== -->
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=salesp07&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 <br/>
