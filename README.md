@@ -1,113 +1,116 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- ===================== HEADER BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Raximboy%20Ibrohimov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20from%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descSize=18&descAlignY=58" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Raximboy+Ibrohimov!;Software+Developer+%F0%9F%9A%80;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Backend+%7C+Mobile+Developer;Python+%E2%80%A2+Django+%E2%80%A2+Flutter;Building+a+Chat+App+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A" />
+</p>
 
-<h3 align="center">A passionate Software Developer from Uzbekistan 🇺🇿</h3>
-
-<br/>
-
-<div align="center">
-
-🔭 &nbsp;I’m currently working on **a Chat App**
-
-🌱 &nbsp;I’m currently learning **Redis, Tailwind, React Native Expo**
-
-💬 &nbsp;Ask me about **Python, Django, Flutter, REST API... or anything!**
-
-⚡ &nbsp;Fun fact: **I love turning coffee into clean code ☕**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salesp07&label=Profile+Views&color=8B5CF6&style=flat" />
+</p>
 
 <br/>
 
-<!-- ===================== CONTACTS ===================== -->
-<div align="center"> 
+<!-- ===================== ABOUT ===================== -->
+<table align="center">
+<tr>
+<td>
+
+```yaml
+name:        Raximboy Ibrohimov
+location:    Uzbekistan 🇺🇿
+role:        Software Developer
+working_on:  a Chat App 💬
+learning:    [ Redis, Tailwind, React Native Expo ]
+ask_me:      [ Python, Django, Flutter, REST API ]
+fun_fact:    "I turn coffee into clean code ☕"
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== CONNECT ===================== -->
+<p align="center">
   <a href="mailto:raximboy4200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raximboy-ibroximov-a75855268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://raximboyibroximov.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+</p>
 
-<hr/>
+<br/>
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<h2 align="center">🧰 &nbsp;Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧩 Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📋 Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Project_Manager-4A154B?style=flat-square&logo=trello&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
+<!-- ===================== STATS ===================== -->
+<h2 align="center">📈 &nbsp;GitHub Stats</h2>
 
-**💻 Languages**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,dart,swift,js,html,css" /><br/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/><br/>
-
-**🧩 Frameworks**
-
-<img src="https://skillicons.dev/icons?i=django,flutter,flask" /><br/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br/><br/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,redis" />
-
-<br/><br/>
-
-**🛠️ Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma" />
-
-<br/><br/>
-
-**📋 Workflow**
-
-<img src="https://img.shields.io/badge/Project_Manager-4A154B?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-</div>
-
-<br/>
-<hr/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=salesp07&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salesp07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/salesp07">Raximboy</a> — Thanks for visiting! ⭐️</i>
-</div>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=20&fontColor=ffffff&fontAlignY=70" />
