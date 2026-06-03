@@ -126,12 +126,5 @@ fun_fact:    "I turn coffee into clean code ☕"
 
 <br/>
 
-<!-- ===================== QUOTE ===================== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<br/>
-
 <!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=20&fontColor=ffffff&fontAlignY=70" />
