@@ -1,5 +1,6 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Raximboy%20Ibrohimov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Mobile%20Developer%20from%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descSize=18&descAlignY=58" alt="Raximboy Ibrohimov" />
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Raximboy Ibrohimov</h1>
+<h3 align="center">Backend &amp; Mobile Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Backend+%7C+Mobile+Developer;Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+Flutter;REST+APIs%2C+Telegram+bots%2C+Docker;Building+a+real-time+Chat+App+%F0%9F%9A%80" alt="Typing SVG" />
@@ -186,11 +187,7 @@ Docker-based deployment and shipping products end to end.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raximboy7&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&background=0D1117" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raximboy7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Raximboy7&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&background=0D1117" alt="Streak" />
 </p>
 
 <br/>
@@ -222,4 +219,6 @@ Hozir real vaqtli <b>Chat App</b> ustida ishlayapman va Redis, Tailwind, React N
 <br/>
 
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=20&fontColor=ffffff&fontAlignY=70" alt="footer" />
+<p align="center">
+  <sub>Thanks for visiting! ⭐</sub>
+</p>
